@@ -1,0 +1,19 @@
+/* ---------- CERTIFICATIONS STYLING ----------- */
+
+/* ---------- MAT TOOLBAR ----------- */
+.md-toolbar {
+  padding: 0px;
+  background-color: inherit;
+  color: inherit;
+}
+
+.md-toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+/* ---------- MAT ICON ----------- */
+.mat-icon {
+  margin: 0;
+  display: inline-flex;
+  vertical-align: middle;
+}

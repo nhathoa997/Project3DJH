@@ -1,0 +1,2917 @@
+{
+  "addresses": [
+    {
+      "id": 66,
+      "name": "USF",
+      "city": "Tampa",
+      "state": "Florida",
+      "buildings": [],
+      "isActive": true
+    },
+    {
+      "id": 67,
+      "name": "GMU",
+      "city": "Fairfax",
+      "state": "VA",
+      "buildings": [],
+      "isActive": true
+    },
+    {
+      "id": 68,
+      "name": "Tampa",
+      "city": "Tampa",
+      "state": "Florida",
+      "buildings": [],
+      "isActive": true
+    },
+    {
+      "id": 69,
+      "name": "MSU",
+      "city": "Springfield",
+      "state": "Missouri",
+      "buildings": [],
+      "isActive": true
+    },
+    {
+      "id": 70,
+      "name": "Ottawa University",
+      "city": "Ottawa",
+      "state": "Kansas",
+      "buildings": [],
+      "isActive": true
+    }
+  ],
+  "batches": [
+    {
+      "id": 1,
+      "name": "1908 Aug16 Java",
+      "startDate": "2019-08-22T13:00:00.000Z",
+      "endDate": "2019-10-24T21:00:00.000Z",
+      "curriculum": 1,
+      "trainer": 1,
+      "cotrainer": 2,
+      "classSize": 10,
+      "skills": [
+        {
+          "id": 4,
+          "name": "AngularJ",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "name": "Spring",
+          "isActive": true
+        },
+        {
+          "id": 50,
+          "name": "Java Servlets",
+          "isActive": true
+        },
+        {
+          "id": 51,
+          "name": "JSP",
+          "isActive": true
+        },
+        {
+          "id": 25,
+          "name": "Oracle SQL",
+          "isActive": true
+        },
+        {
+          "id": 48,
+          "name": "JDBC",
+          "isActive": true
+        },
+        {
+          "id": 49,
+          "name": "HTML",
+          "isActive": true
+        },
+        {
+          "id": 52,
+          "name": "Freemarker",
+          "isActive": true
+        },
+        {
+          "id": 54,
+          "name": "jQuery",
+          "isActive": true
+        },
+        {
+          "id": 55,
+          "name": "Hibernate",
+          "isActive": true
+        },
+        {
+          "id": 56,
+          "name": "REST",
+          "isActive": true
+        },
+        {
+          "id": 57,
+          "name": "SOAP",
+          "isActive": true
+        }
+      ],
+      "location": 66,
+      "building": 66,
+      "finalProject": 2,
+      "room": 160
+    },
+    {
+      "id": 2,
+      "name": "1906 Jun17 Java",
+      "startDate": "2019-06-17T13:00:00.000Z",
+      "endDate": "2019-08-23T21:00:00.000Z",
+      "curriculum": 1,
+      "trainer": 1,
+      "cotrainer": null,
+      "size": 40,
+      "skills": [
+        {
+          "id": 4,
+          "name": "AngularJ",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "name": "Spring",
+          "isActive": true
+        },
+        {
+          "id": 50,
+          "name": "Java Servlets",
+          "isActive": true
+        },
+        {
+          "id": 51,
+          "name": "JSP",
+          "isActive": true
+        },
+        {
+          "id": 25,
+          "name": "Oracle SQL",
+          "isActive": true
+        },
+        {
+          "id": 48,
+          "name": "JDBC",
+          "isActive": true
+        },
+        {
+          "id": 49,
+          "name": "HTML",
+          "isActive": true
+        },
+        {
+          "id": 52,
+          "name": "Freemarker",
+          "isActive": true
+        },
+        {
+          "id": 54,
+          "name": "jQuery",
+          "isActive": true
+        },
+        {
+          "id": 55,
+          "name": "Hibernate",
+          "isActive": true
+        },
+        {
+          "id": 56,
+          "name": "REST",
+          "isActive": true
+        },
+        {
+          "id": 57,
+          "name": "SOAP",
+          "isActive": true
+        }
+      ],
+      "location": 67,
+      "building": 68,
+      "room": 148
+    },
+    {
+      "name": "1903 Mar25 Java",
+      "startDate": 1553518800000,
+      "endDate": 1559336400000,
+      "curriculum": 1,
+      "trainer": 7,
+      "cotrainer": null,
+      "skills": [
+        {
+          "id": 4,
+          "name": "AngularJ",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "name": "Spring",
+          "isActive": true
+        },
+        {
+          "id": 50,
+          "name": "Java Servlets",
+          "isActive": true
+        },
+        {
+          "id": 51,
+          "name": "JSP",
+          "isActive": true
+        },
+        {
+          "id": 25,
+          "name": "Oracle SQL",
+          "isActive": true
+        },
+        {
+          "id": 48,
+          "name": "JDBC",
+          "isActive": true
+        },
+        {
+          "id": 49,
+          "name": "HTML",
+          "isActive": true
+        },
+        {
+          "id": 52,
+          "name": "Freemarker",
+          "isActive": true
+        },
+        {
+          "id": 54,
+          "name": "jQuery",
+          "isActive": true
+        },
+        {
+          "id": 55,
+          "name": "Hibernate",
+          "isActive": true
+        },
+        {
+          "id": 56,
+          "name": "REST",
+          "isActive": true
+        },
+        {
+          "id": 57,
+          "name": "SOAP",
+          "isActive": true
+        }
+      ],
+      "location": null,
+      "building": null,
+      "room": null,
+      "size": 10,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "1903 Mar18 SDET",
+      "startDate": "2019-03-18T13:00:00.000Z",
+      "endDate": "2019-05-24T21:00:00.000Z",
+      "curriculum": 3,
+      "trainer": 9,
+      "cotrainer": null,
+      "classSize": 10,
+      "skills": [
+        {
+          "id": 5,
+          "name": "Selenium/WebDriver",
+          "isActive": true
+        },
+        {
+          "id": 47,
+          "name": "Core SDET",
+          "isActive": true
+        },
+        {
+          "id": 69,
+          "name": "TestNG",
+          "isActive": true
+        },
+        {
+          "id": 72,
+          "name": "Manual Testing",
+          "isActive": true
+        },
+        {
+          "id": 70,
+          "name": "Pyhton",
+          "isActive": true
+        },
+        {
+          "id": 71,
+          "name": "UFT",
+          "isActive": true
+        },
+        {
+          "id": 68,
+          "name": "Cucumber",
+          "isActive": true
+        }
+      ],
+      "location": null,
+      "building": null,
+      "finalProject": 9,
+      "room": null
+    },
+    {
+      "id": 5,
+      "name": "1903 Mar11 .NET",
+      "startDate": 1552309200000,
+      "endDate": 1558126800000,
+      "curriculum": 2,
+      "trainer": 2,
+      "cotrainer": null,
+      "size": 10,
+      "skills": [
+        {
+          "id": 59,
+          "name": "ASP.NET MVC",
+          "isActive": true
+        },
+        {
+          "id": 60,
+          "name": "ASP.NET WEB API",
+          "isActive": true
+        },
+        {
+          "id": 58,
+          "name": "C#",
+          "isActive": true
+        },
+        {
+          "id": 66,
+          "name": "ADO.NET",
+          "isActive": true
+        },
+        {
+          "id": 62,
+          "name": "MSTest",
+          "isActive": true
+        },
+        {
+          "id": 65,
+          "name": "Entity Framework",
+          "isActive": true
+        },
+        {
+          "id": 63,
+          "name": "xUnit",
+          "isActive": true
+        },
+        {
+          "id": 64,
+          "name": "NLog",
+          "isActive": true
+        },
+        {
+          "id": 61,
+          "name": "IIS",
+          "isActive": true
+        },
+        {
+          "id": 46,
+          "name": "Core .NET",
+          "isActive": true
+        }
+      ],
+      "location": 66,
+      "building": 66,
+      "room": 160
+    },
+    {
+      "name": "1601 Jan01 Java",
+      "startDate": "2016-01-01T14:00:00.000Z",
+      "endDate": "2016-03-11T22:00:00.000Z",
+      "curriculum": 1,
+      "trainer": 1,
+      "cotrainer": null,
+      "skills": [
+        {
+          "id": 4,
+          "name": "AngularJ",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "name": "Spring",
+          "isActive": true
+        },
+        {
+          "id": 50,
+          "name": "Java Servlets",
+          "isActive": true
+        },
+        {
+          "id": 51,
+          "name": "JSP",
+          "isActive": true
+        },
+        {
+          "id": 25,
+          "name": "Oracle SQL",
+          "isActive": true
+        },
+        {
+          "id": 48,
+          "name": "JDBC",
+          "isActive": true
+        },
+        {
+          "id": 49,
+          "name": "HTML",
+          "isActive": true
+        },
+        {
+          "id": 52,
+          "name": "Freemarker",
+          "isActive": true
+        },
+        {
+          "id": 54,
+          "name": "jQuery",
+          "isActive": true
+        },
+        {
+          "id": 55,
+          "name": "Hibernate",
+          "isActive": true
+        },
+        {
+          "id": 56,
+          "name": "REST",
+          "isActive": true
+        },
+        {
+          "id": 57,
+          "name": "SOAP",
+          "isActive": true
+        }
+      ],
+      "location": null,
+      "building": null,
+      "room": null,
+      "size": 10,
+      "id": 6
+    },
+    {
+      "name": "1911 Nov25 Test.t",
+      "startDate": "2019-11-25T14:00:00.000Z",
+      "endDate": "2020-01-10T22:00:00.000Z",
+      "curriculum": 106,
+      "trainer": 7,
+      "cotrainer": 1,
+      "skills": [
+        3,
+        49
+      ],
+      "location": 66,
+      "building": 69,
+      "room": 150,
+      "finalProject": null,
+      "size": 10,
+      "id": 7
+    }
+  ],
+  "buildings": [
+    {
+      "id": 64,
+      "isActive": true,
+      "address": 45,
+      "name": "Chicago"
+    },
+    {
+      "id": 2,
+      "isActive": true,
+      "address": 2,
+      "name": "ASU Building 1"
+    },
+    {
+      "id": 21,
+      "isActive": true,
+      "address": 3,
+      "name": "SPS"
+    },
+    {
+      "id": 3,
+      "isActive": true,
+      "address": 3,
+      "name": "Queens"
+    },
+    {
+      "isActive": "true",
+      "address": "5",
+      "name": "Detroit",
+      "id": 65
+    },
+    {
+      "id": 1,
+      "isActive": true,
+      "address": 1,
+      "name": "11730 Plaza American Drive (HQ)"
+    },
+    {
+      "isActive": true,
+      "id": 66,
+      "name": "Muma",
+      "rooms": [],
+      "address": 66
+    },
+    {
+      "isActive": true,
+      "id": 68,
+      "name": "Johnson Center",
+      "rooms": [],
+      "address": 67
+    },
+    {
+      "isActive": true,
+      "id": 69,
+      "name": "NEC",
+      "rooms": [],
+      "address": 66
+    },
+    {
+      "isActive": true,
+      "id": 70,
+      "name": "Enterprise",
+      "rooms": [],
+      "address": 67
+    },
+    {
+      "isActive": true,
+      "id": 71,
+      "name": "Batty Nuggets",
+      "rooms": [],
+      "address": 66
+    },
+    {
+      "isActive": true,
+      "id": 72,
+      "name": "Happy Times",
+      "rooms": [],
+      "address": 66
+    },
+    {
+      "isActive": true,
+      "id": 100,
+      "name": "John Lennon",
+      "rooms": [],
+      "address": 66,
+      "localServerId": 100
+    },
+    {
+      "isActive": true,
+      "id": 101,
+      "name": "Administration",
+      "rooms": [],
+      "address": 69,
+      "localServerId": 101
+    },
+    {
+      "isActive": true,
+      "id": 102,
+      "name": "testingstan 2.0",
+      "rooms": [],
+      "address": 66,
+      "localServerId": 102
+    },
+    {
+      "isActive": true,
+      "id": 103,
+      "name": "Brown Hall",
+      "rooms": [],
+      "address": 70,
+      "localServerId": 103
+    },
+    {
+      "isActive": true,
+      "id": 104,
+      "name": "Behan Hall",
+      "rooms": [],
+      "address": 70,
+      "localServerId": 104
+    },
+    {
+      "isActive": true,
+      "id": 105,
+      "name": "Marshall Student Center",
+      "rooms": [],
+      "address": 66,
+      "localServerId": 105
+    }
+  ],
+  "curricula": [
+    {
+      "id": 2,
+      "name": ".NET",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 59,
+          "name": "ASP.NET MVC",
+          "isActive": true
+        },
+        {
+          "id": 60,
+          "name": "ASP.NET WEB API",
+          "isActive": true
+        },
+        {
+          "id": 58,
+          "name": "C#",
+          "isActive": true
+        },
+        {
+          "id": 66,
+          "name": "ADO.NET",
+          "isActive": true
+        },
+        {
+          "id": 62,
+          "name": "MSTest",
+          "isActive": true
+        },
+        {
+          "id": 65,
+          "name": "Entity Framework",
+          "isActive": true
+        },
+        {
+          "id": 63,
+          "name": "xUnit",
+          "isActive": true
+        },
+        {
+          "id": 64,
+          "name": "NLog",
+          "isActive": true
+        },
+        {
+          "id": 61,
+          "name": "IIS",
+          "isActive": true
+        },
+        {
+          "id": 46,
+          "name": "Core .NET",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Java",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "SDET",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 47
+        },
+        {
+          "id": 68
+        },
+        {
+          "id": 69
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 70
+        },
+        {
+          "id": 71
+        },
+        {
+          "id": 72
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Custom",
+      "isActive": true,
+      "isCore": true,
+      "skills": []
+    },
+    {
+      "id": 25,
+      "name": "Appian",
+      "skills": [],
+      "isCore": true
+    },
+    {
+      "id": 4,
+      "name": "Capital One",
+      "isActive": true,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 4
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Testing",
+      "isActive": false,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 47
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Testing2",
+      "isActive": false,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 4
+        },
+        {
+          "id": 47
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "name",
+      "isActive": false,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 4
+        },
+        {
+          "id": 1
+        },
+        {
+          "id": 47
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Big Data",
+      "isActive": false,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 27
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dynamics CRM",
+      "isActive": true,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 28
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "PEGA",
+      "isActive": true,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 30
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Oracle Fusion",
+      "isActive": true,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 29
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "GO",
+      "isActive": true,
+      "isCore": false,
+      "skills": [
+        {
+          "id": 31
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Salesforce",
+      "skills": [],
+      "isCore": true
+    },
+    {
+      "id": 44,
+      "name": "BA",
+      "isActive": true,
+      "isCore": false,
+      "skills": []
+    },
+    {
+      "id": 106,
+      "name": "Test.t",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 3,
+          "name": "Spring",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Test.x",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Test.y",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Test.c",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Test.a",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Test.b",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "newCurric",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 5,
+          "name": "Selenium/WebDriver",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "name": "Spring",
+          "isActive": true
+        },
+        {
+          "id": 6,
+          "name": "XYZ",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "another test",
+      "isActive": true,
+      "isCore": true,
+      "skills": [
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "Nick Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 156
+    },
+    {
+      "id": 2,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "Steve Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 160
+    },
+    {
+      "id": 3,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "John Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 161
+    },
+    {
+      "id": 4,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "David Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 150
+    },
+    {
+      "id": 5,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "Blake Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 162
+    },
+    {
+      "id": 6,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "Jack Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 155
+    },
+    {
+      "id": 7,
+      "startDate": "2019-05-06T00:00:00.000Z",
+      "endDate": "2019-05-10T14:00:00.000Z",
+      "name": "Simon Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 157
+    },
+    {
+      "id": 8,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-14T14:00:00.000Z",
+      "name": "Nick Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 156
+    },
+    {
+      "id": 9,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-15T14:00:00.000Z",
+      "name": "Steve Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 160
+    },
+    {
+      "id": 10,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-16T14:00:00.000Z",
+      "name": "John Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 161
+    },
+    {
+      "id": 11,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-17T14:00:00.000Z",
+      "name": "David Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 150
+    },
+    {
+      "id": 12,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-13T14:00:00.000Z",
+      "name": "Blake Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 162
+    },
+    {
+      "id": 13,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-14T14:00:00.000Z",
+      "name": "Jack Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 155
+    },
+    {
+      "id": 14,
+      "startDate": "2019-05-13T00:00:00.000Z",
+      "endDate": "2019-05-15T14:00:00.000Z",
+      "name": "Simon Batch",
+      "created": "2016-01-01T14:00:00.000Z",
+      "room": 157
+    },
+    {
+      "id": 15,
+      "startDate": "2019-05-11T04:00:00.000Z",
+      "endDate": "2019-05-11T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-05-09T02:41:47.246Z",
+      "room": "1701 E"
+    },
+    {
+      "id": 16,
+      "startDate": "2019-05-11T04:00:00.000Z",
+      "endDate": "2019-05-11T04:00:00.000Z",
+      "name": "1906 Jun17 Java",
+      "created": "2019-05-09T02:44:17.222Z",
+      "room": "2301 C"
+    },
+    {
+      "id": 17,
+      "startDate": "2019-05-15T04:00:00.000Z",
+      "endDate": "2019-05-17T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-05-09T02:45:58.685Z",
+      "room": "1701 E"
+    },
+    {
+      "id": 18,
+      "startDate": "2019-05-16T04:00:00.000Z",
+      "endDate": "2019-05-25T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-05-09T13:40:33.178Z",
+      "room": "1701 E"
+    },
+    {
+      "id": 19,
+      "startDate": "",
+      "endDate": "",
+      "name": "1903 Mar11 .NET",
+      "created": "2019-05-09T13:50:45.302Z",
+      "room": "1701 E"
+    },
+    {
+      "id": 20,
+      "startDate": "2019-05-31T04:00:00.000Z",
+      "endDate": "2019-05-14T04:00:00.000Z",
+      "name": "1903 Mar18 SDET",
+      "created": "2019-05-09T13:53:05.650Z",
+      "room": "1300"
+    },
+    {
+      "id": 21,
+      "startDate": "2019-05-20T04:00:00.000Z",
+      "endDate": "2019-05-24T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-05-09T13:56:07.631Z",
+      "room": "1701 E"
+    },
+    {
+      "id": 22,
+      "startDate": "2019-05-20T04:00:00.000Z",
+      "endDate": "2019-05-24T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-05-09T13:56:12.118Z",
+      "room": "1701 E"
+    },
+    {
+      "id": 23,
+      "startDate": "2019-05-20T04:00:00.000Z",
+      "endDate": "2019-05-24T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-05-09T14:00:24.359Z",
+      "room": 156
+    },
+    {
+      "id": 24,
+      "startDate": "2019-06-09T04:00:00.000Z",
+      "endDate": "2019-06-13T04:00:00.000Z",
+      "name": "1906 Jun17 Java",
+      "created": "2019-06-10T03:22:04.207Z",
+      "room": ""
+    },
+    {
+      "id": 25,
+      "startDate": "2019-06-04T04:00:00.000Z",
+      "endDate": "2019-06-12T04:00:00.000Z",
+      "name": "1903 Mar25 Java",
+      "created": "2019-06-10T04:07:42.330Z",
+      "room": 161
+    },
+    {
+      "id": 26,
+      "startDate": "2019-06-09T04:00:00.000Z",
+      "endDate": "2019-06-10T04:00:00.000Z",
+      "name": "1601 Jan01 Java",
+      "created": "2019-06-11T14:41:49.707Z",
+      "room": 162
+    },
+    {
+      "id": 27,
+      "startDate": "",
+      "endDate": "",
+      "name": "",
+      "created": "2019-06-12T21:13:49.339Z",
+      "room": ""
+    },
+    {
+      "id": 28,
+      "startDate": "",
+      "endDate": "",
+      "name": "",
+      "created": "2019-06-12T23:31:39.057Z",
+      "room": ""
+    },
+    {
+      "id": 29,
+      "startDate": "",
+      "endDate": "",
+      "name": "",
+      "created": "2019-06-12T23:32:02.698Z",
+      "room": ""
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "201",
+      "active": true,
+      "building": 1,
+      "capacity": 25
+    },
+    {
+      "id": 2,
+      "name": "202",
+      "active": true,
+      "building": 1,
+      "capacity": 25
+    },
+    {
+      "id": 3,
+      "name": "204",
+      "active": true,
+      "building": 1,
+      "capacity": 30
+    },
+    {
+      "id": 4,
+      "name": "205",
+      "active": true,
+      "building": 1,
+      "capacity": 30
+    },
+    {
+      "id": 5,
+      "name": "X1",
+      "active": false,
+      "building": 1,
+      "capacity": 35
+    },
+    {
+      "id": 6,
+      "name": "207",
+      "active": true,
+      "building": 1,
+      "capacity": 35
+    },
+    {
+      "id": 100,
+      "name": "X2",
+      "active": false,
+      "building": 1,
+      "capacity": 40
+    },
+    {
+      "id": 101,
+      "name": "X3",
+      "active": false,
+      "building": 1,
+      "capacity": 40
+    },
+    {
+      "id": 122,
+      "name": "209",
+      "active": true,
+      "building": 1,
+      "capacity": 45
+    },
+    {
+      "id": 102,
+      "name": "203",
+      "active": true,
+      "building": 1,
+      "capacity": 45
+    },
+    {
+      "id": 103,
+      "name": "206",
+      "active": true,
+      "building": 1,
+      "capacity": 25
+    },
+    {
+      "id": 142,
+      "name": "214",
+      "active": true,
+      "building": 1,
+      "capacity": 25
+    },
+    {
+      "id": 145,
+      "active": true,
+      "name": "Chik Fil A",
+      "building": 67,
+      "unavailabilities": [],
+      "capacity": 30
+    },
+    {
+      "id": 146,
+      "active": true,
+      "name": "Subway",
+      "building": 67,
+      "unavailabilities": [],
+      "capacity": 30
+    },
+    {
+      "id": 147,
+      "active": true,
+      "name": "1st Floor",
+      "building": 68,
+      "unavailabilities": [
+        {
+          "id": 0,
+          "startDate": "2018-12-02T02:12:13.417Z",
+          "endDate": "2018-12-02T02:12:13.417Z",
+          "description": "James broke the building",
+          "room": 147
+        },
+        {
+          "id": 0,
+          "startDate": "2018-12-02T22:00:42.931Z",
+          "endDate": "2018-12-02T22:00:42.931Z",
+          "description": "Vacationing",
+          "room": 147
+        }
+      ],
+      "capacity": 35
+    },
+    {
+      "id": 148,
+      "active": true,
+      "name": "China Town",
+      "building": 68,
+      "unavailabilities": [
+        {
+          "id": 0,
+          "startDate": "2018-12-11T05:00:00.000Z",
+          "endDate": "2018-12-17T05:00:00.000Z",
+          "description": "Valid test 1",
+          "room": 148
+        },
+        {
+          "id": 0,
+          "startDate": "2018-12-10T05:00:00.000Z",
+          "endDate": "2018-12-18T05:00:00.000Z",
+          "description": "Valid test 2",
+          "room": 148
+        }
+      ],
+      "capacity": 40
+    },
+    {
+      "id": 149,
+      "active": true,
+      "name": "3rd Floor",
+      "building": 68,
+      "unavailabilities": [
+        {
+          "id": 0,
+          "startDate": "2018-12-03T17:31:28.303Z",
+          "endDate": "2018-12-18T05:00:00.000Z",
+          "description": "test",
+          "room": 149
+        }
+      ],
+      "capacity": 40
+    },
+    {
+      "id": 150,
+      "active": true,
+      "name": "200 A",
+      "building": 69,
+      "unavailabilities": [
+        {
+          "id": 0,
+          "startDate": "2018-12-17T05:00:00.000Z",
+          "endDate": "2018-12-26T05:00:00.000Z",
+          "description": "Winter Break",
+          "room": 150
+        },
+        {
+          "id": 0,
+          "startDate": "2018-12-10T05:00:00.000Z",
+          "endDate": "2018-12-18T05:00:00.000Z",
+          "description": "New Semester",
+          "room": 150
+        }
+      ],
+      "capacity": 45
+    },
+    {
+      "id": 151,
+      "active": true,
+      "name": "Bat Cave",
+      "building": 70,
+      "unavailabilities": [
+        {
+          "id": 0,
+          "startDate": "2018-12-06T05:00:00.000Z",
+          "endDate": "2018-12-18T05:00:00.000Z",
+          "description": "Renovations",
+          "room": 151
+        },
+        {
+          "id": 0,
+          "startDate": "2018-12-03T17:28:27.729Z",
+          "endDate": "2018-12-18T05:00:00.000Z",
+          "description": "New test",
+          "room": 151
+        }
+      ],
+      "capacity": 25
+    },
+    {
+      "id": 153,
+      "active": true,
+      "name": "Let's try this again",
+      "unavailabilities": [],
+      "capacity": 25
+    },
+    {
+      "id": 155,
+      "active": true,
+      "name": "Help!",
+      "building": 72,
+      "unavailabilities": [],
+      "capacity": 30
+    },
+    {
+      "id": 156,
+      "active": true,
+      "name": "1701 E",
+      "building": 66,
+      "unavailabilities": [],
+      "capacity": 30
+    },
+    {
+      "id": 157,
+      "active": true,
+      "name": "Strawberry Fields",
+      "building": 100,
+      "unavailabilities": [],
+      "capacity": 35
+    },
+    {
+      "id": 158,
+      "active": true,
+      "name": "The President's Office",
+      "building": 101,
+      "unavailabilities": [],
+      "capacity": 35
+    },
+    {
+      "id": 160,
+      "active": true,
+      "name": "2301 C",
+      "building": 66,
+      "unavailabilities": [],
+      "capacity": 40
+    },
+    {
+      "id": 161,
+      "active": true,
+      "name": "1300",
+      "building": 66,
+      "unavailabilities": [],
+      "capacity": 40
+    },
+    {
+      "id": 162,
+      "active": true,
+      "name": "The Hamburgler",
+      "building": 71,
+      "unavailabilities": [],
+      "capacity": 40
+    }
+  ],
+  "settings": [
+    {
+      "id": 1,
+      "alias": "global",
+      "trainersPerPage": 5,
+      "reportGrads": 30,
+      "batchLength": 10,
+      "reportIncomingGrads": 26,
+      "minBatchSize": 10,
+      "maxBatchSize": 20,
+      "trainerBreakDays": 14,
+      "defaultLocation": null,
+      "defaultBuilding": null,
+      "defaultNamePattern": "$y$m $mmm$d $c"
+    }
+  ],
+  "skills": [
+    {
+      "id": 4,
+      "name": "AngularJ",
+      "isActive": true
+    },
+    {
+      "id": 1,
+      "name": "Core Java",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "JUnit",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Selenium/WebDriver",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Spring",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "name": "XYZ",
+      "isActive": true
+    },
+    {
+      "id": 32,
+      "name": "Salesforce",
+      "isActive": true
+    },
+    {
+      "id": 47,
+      "name": "Core SDET",
+      "isActive": true
+    },
+    {
+      "id": 50,
+      "name": "Java Servlets",
+      "isActive": true
+    },
+    {
+      "id": 51,
+      "name": "JSP",
+      "isActive": true
+    },
+    {
+      "id": 78,
+      "name": "C++",
+      "isActive": true
+    },
+    {
+      "id": 25,
+      "name": "Oracle SQL",
+      "isActive": true
+    },
+    {
+      "id": 48,
+      "name": "JDBC",
+      "isActive": true
+    },
+    {
+      "id": 49,
+      "name": "HTML",
+      "isActive": true
+    },
+    {
+      "id": 52,
+      "name": "Freemarker",
+      "isActive": true
+    },
+    {
+      "id": 53,
+      "name": "CSS",
+      "isActive": true
+    },
+    {
+      "id": 54,
+      "name": "jQuery",
+      "isActive": true
+    },
+    {
+      "id": 55,
+      "name": "Hibernate",
+      "isActive": true
+    },
+    {
+      "id": 56,
+      "name": "REST",
+      "isActive": true
+    },
+    {
+      "id": 57,
+      "name": "SOAP",
+      "isActive": true
+    },
+    {
+      "id": 59,
+      "name": "ASP.NET MVC",
+      "isActive": true
+    },
+    {
+      "id": 60,
+      "name": "ASP.NET WEB API",
+      "isActive": true
+    },
+    {
+      "id": 58,
+      "name": "C#",
+      "isActive": true
+    },
+    {
+      "id": 66,
+      "name": "ADO.NET",
+      "isActive": true
+    },
+    {
+      "id": 62,
+      "name": "MSTest",
+      "isActive": true
+    },
+    {
+      "id": 67,
+      "name": "T-SQL",
+      "isActive": true
+    },
+    {
+      "id": 65,
+      "name": "Entity Framework",
+      "isActive": true
+    },
+    {
+      "id": 63,
+      "name": "xUnit",
+      "isActive": true
+    },
+    {
+      "id": 64,
+      "name": "NLog",
+      "isActive": true
+    },
+    {
+      "id": 61,
+      "name": "IIS",
+      "isActive": true
+    },
+    {
+      "id": 69,
+      "name": "TestNG",
+      "isActive": true
+    },
+    {
+      "id": 72,
+      "name": "Manual Testing",
+      "isActive": true
+    },
+    {
+      "id": 70,
+      "name": "Pyhton",
+      "isActive": true
+    },
+    {
+      "id": 71,
+      "name": "UFT",
+      "isActive": true
+    },
+    {
+      "id": 68,
+      "name": "Cucumber",
+      "isActive": true
+    },
+    {
+      "id": 73,
+      "name": "C",
+      "isActive": true
+    },
+    {
+      "id": 46,
+      "name": "Core .NET",
+      "isActive": true
+    },
+    {
+      "id": 26,
+      "name": "Microservices",
+      "isActive": true
+    },
+    {
+      "id": 27,
+      "name": "Big Data",
+      "isActive": true
+    },
+    {
+      "id": 28,
+      "name": "Dynamics CRM",
+      "isActive": true
+    },
+    {
+      "id": 29,
+      "name": "Oracle Fusion",
+      "isActive": true
+    },
+    {
+      "id": 30,
+      "name": "PEGA",
+      "isActive": true
+    },
+    {
+      "id": 79,
+      "name": "Go",
+      "isActive": true
+    }
+  ],
+  "trainers": [
+    {
+      "firstName": "August",
+      "lastName": "Duet",
+      "email": "august.duet@revature.com",
+      "isActive": true,
+      "resume": null,
+      "id": 1,
+      "skills": [
+        {
+          "id": 4
+        },
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 5
+        }
+      ],
+      "preferredLocation": 4
+    },
+    {
+      "id": 2,
+      "firstName": "Fred",
+      "lastName": "Belotte",
+      "isActive": true,
+      "resume": null,
+      "email": "fred.belotte@revature.com",
+      "skills": []
+    },
+    {
+      "id": 3,
+      "firstName": "Joe",
+      "lastName": "Kirkbride",
+      "isActive": false,
+      "resume": null,
+      "email": "joe.kirkbride@revature.com",
+      "skills": []
+    },
+    {
+      "id": 4,
+      "firstName": "Brian",
+      "lastName": "Connolly",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 5,
+      "firstName": "Taylor",
+      "lastName": "Kemper",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 6,
+      "firstName": "Patrick",
+      "lastName": "Walsh",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 7,
+      "firstName": "Yuvi",
+      "lastName": "Damodaran",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 8,
+      "firstName": "Steven",
+      "lastName": "Kelsey",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 9,
+      "firstName": "Ryan",
+      "lastName": "Lessley",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 10,
+      "firstName": "Richard",
+      "lastName": "Orr",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 11,
+      "firstName": "Nicholas",
+      "lastName": "Jurczak",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 12,
+      "firstName": "Ankit",
+      "lastName": "Garg",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 13,
+      "firstName": "Genesis",
+      "lastName": "Bonds",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 14,
+      "firstName": "Emily",
+      "lastName": "Higgins",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 75,
+      "firstName": "Carolyn",
+      "lastName": "Rehm",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 95,
+      "firstName": "Mitch",
+      "lastName": "Goshorn",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 55,
+      "firstName": "Trevin",
+      "lastName": "Chester",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 56,
+      "firstName": "William",
+      "lastName": "Gentry",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 57,
+      "firstName": "Nicholas",
+      "lastName": "Escalona",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 58,
+      "firstName": "Trainer",
+      "lastName": "3",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 76,
+      "firstName": "Jason \"Matt\"",
+      "lastName": "Knighten",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 77,
+      "firstName": "Bharath",
+      "lastName": "K.",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 78,
+      "firstName": "Pushpinder",
+      "lastName": "Kaur",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 96,
+      "firstName": "Wezley",
+      "lastName": "Singleton",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 97,
+      "firstName": "Pushpinder",
+      "lastName": "Kaur",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 15,
+      "firstName": "Karan",
+      "lastName": "Dhirar",
+      "isActive": false,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 35,
+      "firstName": "Peter",
+      "lastName": "Alagna",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 36,
+      "firstName": "Mehrab",
+      "lastName": "Rahman",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 37,
+      "firstName": "Blake",
+      "lastName": "Kruppa",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 38,
+      "firstName": "Arun",
+      "lastName": "Kumar",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 115,
+      "firstName": "Satish",
+      "lastName": "Reddy",
+      "isActive": true,
+      "resume": null,
+      "email": "",
+      "skills": []
+    },
+    {
+      "id": 117,
+      "firstName": "Slim",
+      "lastName": "Jimmy",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        },
+        {
+          "id": 46
+        },
+        {
+          "id": 58
+        },
+        {
+          "id": 59
+        },
+        {
+          "id": 60
+        },
+        {
+          "id": 61
+        },
+        {
+          "id": 62
+        },
+        {
+          "id": 63
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 65
+        },
+        {
+          "id": 66
+        },
+        {
+          "id": 47
+        }
+      ],
+      "certifications": "",
+      "isActive": true,
+      "resume": "",
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "dabdab@revature.com"
+    },
+    {
+      "id": 118,
+      "firstName": "Senior Super Vice",
+      "lastName": "President",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        },
+        {
+          "id": 46
+        },
+        {
+          "id": 58
+        },
+        {
+          "id": 59
+        },
+        {
+          "id": 60
+        },
+        {
+          "id": 61
+        },
+        {
+          "id": 62
+        },
+        {
+          "id": 63
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 65
+        },
+        {
+          "id": 66
+        },
+        {
+          "id": 47
+        },
+        {
+          "id": 68
+        },
+        {
+          "id": 69
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 70
+        },
+        {
+          "id": 71
+        },
+        {
+          "id": 72
+        }
+      ],
+      "certifications": "",
+      "isActive": true,
+      "resume": "",
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "svp@revature.com"
+    },
+    {
+      "id": 119,
+      "firstName": "James",
+      "lastName": "Senior",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        },
+        {
+          "id": 46
+        },
+        {
+          "id": 58
+        },
+        {
+          "id": 59
+        },
+        {
+          "id": 60
+        },
+        {
+          "id": 61
+        },
+        {
+          "id": 62
+        },
+        {
+          "id": 63
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 65
+        },
+        {
+          "id": 66
+        }
+      ],
+      "certifications": "",
+      "isActive": true,
+      "resume": "",
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "svp@revature.com"
+    },
+    {
+      "id": 120,
+      "firstName": "Brian",
+      "lastName": "Alvarez",
+      "isActive": true,
+      "preferredLocation": null,
+      "unavailabilities": [
+        {
+          "startDate": "2018-11-27T05:00:00.000Z",
+          "endDate": "2018-11-29T05:00:00.000Z",
+          "description": "Training"
+        }
+      ],
+      "email": "test.trainer@revature.com",
+      "skills": [
+        {
+          "id": 4
+        },
+        {
+          "id": 1
+        }
+      ],
+      "certifications": [],
+      "resume": "",
+      "linkedInUrl": ""
+    },
+    {
+      "id": 121,
+      "firstName": "Jim",
+      "lastName": "Dandy",
+      "isActive": true,
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "jim.dandy@revature.com",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        }
+      ],
+      "certifications": [],
+      "resume": "",
+      "linkedInUrl": ""
+    },
+    {
+      "id": 122,
+      "firstName": "sfsd",
+      "lastName": "dsfsd",
+      "isActive": true,
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "fsdfsd@lkjldsjf.com",
+      "skills": [],
+      "certifications": [],
+      "resume": "",
+      "linkedInUrl": ""
+    },
+    {
+      "id": 123,
+      "firstName": "Jon",
+      "lastName": "Doe",
+      "isActive": true,
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "j.doe@revature.com",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        }
+      ],
+      "certifications": [],
+      "resume": "",
+      "linkedInUrl": ""
+    },
+    {
+      "id": 124,
+      "firstName": "Trevin",
+      "lastName": "Chester",
+      "isActive": true,
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "trevin.chester@revature.com",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        },
+        {
+          "id": 59,
+          "name": "ASP.NET MVC",
+          "isActive": true
+        },
+        {
+          "id": 60,
+          "name": "ASP.NET WEB API",
+          "isActive": true
+        },
+        {
+          "id": 58,
+          "name": "C#",
+          "isActive": true
+        },
+        {
+          "id": 66,
+          "name": "ADO.NET",
+          "isActive": true
+        },
+        {
+          "id": 62,
+          "name": "MSTest",
+          "isActive": true
+        },
+        {
+          "id": 65,
+          "name": "Entity Framework",
+          "isActive": true
+        },
+        {
+          "id": 63,
+          "name": "xUnit",
+          "isActive": true
+        },
+        {
+          "id": 64,
+          "name": "NLog",
+          "isActive": true
+        },
+        {
+          "id": 61,
+          "name": "IIS",
+          "isActive": true
+        },
+        {
+          "id": 46,
+          "name": "Core .NET",
+          "isActive": true
+        },
+        {
+          "id": 47
+        },
+        {
+          "id": 68
+        },
+        {
+          "id": 69
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 70
+        },
+        {
+          "id": 71
+        },
+        {
+          "id": 72
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "JUnit",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "name": "Core Java",
+          "isActive": true
+        }
+      ],
+      "certifications": [],
+      "resume": "",
+      "linkedInUrl": ""
+    },
+    {
+      "id": 125,
+      "firstName": "Khang",
+      "lastName": "Khang",
+      "isActive": true,
+      "preferredLocation": null,
+      "unavailabilities": [],
+      "email": "Kahng.Khang@Khang.kom",
+      "skills": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 48
+        },
+        {
+          "id": 49
+        },
+        {
+          "id": 50
+        },
+        {
+          "id": 51
+        },
+        {
+          "id": 52
+        },
+        {
+          "id": 54
+        },
+        {
+          "id": 55
+        },
+        {
+          "id": 56
+        },
+        {
+          "id": 57
+        },
+        {
+          "id": 59,
+          "name": "ASP.NET MVC",
+          "isActive": true
+        },
+        {
+          "id": 60,
+          "name": "ASP.NET WEB API",
+          "isActive": true
+        },
+        {
+          "id": 58,
+          "name": "C#",
+          "isActive": true
+        },
+        {
+          "id": 66,
+          "name": "ADO.NET",
+          "isActive": true
+        },
+        {
+          "id": 62,
+          "name": "MSTest",
+          "isActive": true
+        },
+        {
+          "id": 65,
+          "name": "Entity Framework",
+          "isActive": true
+        },
+        {
+          "id": 63,
+          "name": "xUnit",
+          "isActive": true
+        },
+        {
+          "id": 64,
+          "name": "NLog",
+          "isActive": true
+        },
+        {
+          "id": 61,
+          "name": "IIS",
+          "isActive": true
+        },
+        {
+          "id": 46,
+          "name": "Core .NET",
+          "isActive": true
+        },
+        {
+          "id": 47
+        },
+        {
+          "id": 68
+        },
+        {
+          "id": 69
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 70
+        },
+        {
+          "id": 71
+        },
+        {
+          "id": 72
+        }
+      ],
+      "certifications": [],
+      "resume": "",
+      "linkedInUrl": ""
+    }
+  ],
+  "unavailables": [
+    {
+      "id": 12,
+      "startDate": {
+        "year": 2018,
+        "month": 4
+      },
+      "endDate": {
+        "year": 2018,
+        "month": 9
+      },
+      "description": "this is a test unavailability",
+      "room": 143
+    },
+    {
+      "id": 13,
+      "startDate": "2019-03-06T19:12:46.004Z",
+      "endDate": "2019-03-06T19:12:46.004Z",
+      "description": "test",
+      "room": 156
+    },
+    {
+      "id": 14,
+      "startDate": "2019-03-25T04:00:00.000Z",
+      "endDate": "2019-06-07T04:00:00.000Z",
+      "description": "Batch",
+      "room": 156
+    },
+    {
+      "id": 15,
+      "startDate": "2019-04-23T20:30:48.330Z",
+      "endDate": "2019-04-30T04:00:00.000Z",
+      "description": "test",
+      "room": 162
+    }
+  ],
+  "finalProjects": [
+    {
+      "id": 1,
+      "name": "Assign Force",
+      "description": "Assign batches to trainers and rooms",
+      "isActive": true,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Project Force",
+      "description": "Manage projects creating tasks and assigning them to teams",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "grfsdf",
+      "description": "asdzsfawf",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "name": "dfsdf",
+      "description": "saddsax",
+      "isActive": false
+    },
+    {
+      "id": 5,
+      "name": "rsegesg",
+      "description": "afacawc",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "name": "dfzzv",
+      "description": "asdcsdc",
+      "isActive": false
+    },
+    {
+      "id": 7,
+      "name": "kjbkj",
+      "description": "jlnkn",
+      "isActive": false
+    },
+    {
+      "id": 8,
+      "name": "hgvgv",
+      "description": "mnb m",
+      "isActive": false
+    },
+    {
+      "id": 9,
+      "name": "Project Example",
+      "description": "Project Description",
+      "isActive": true,
+      "active": true
+    }
+  ]
+}
